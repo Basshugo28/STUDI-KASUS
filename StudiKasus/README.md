@@ -1,4 +1,4 @@
-# StudiKasus Nazil Alifurohman E.R. 19.11.2755
+# STUDI KASUS BASTEN HUGO SIMANUNGKALIT 19.11.2740
 
 Program Aplikasi Promos ini adalah pengembangan dari aplikasi sebelumnya dengan menambahkan fitur baru
 
